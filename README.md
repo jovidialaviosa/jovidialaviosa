@@ -1,4 +1,4 @@
-### Hi 👋 i'm Jovidia.
+### Hi 👋 i'm Jovidia
 I'm undergraduate student in Telkom University majoring Informatics
 
 - 🌼 I'm currently learning about how to analyze and visualize data with python  
