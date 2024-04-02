@@ -1,8 +1,8 @@
 ### Hi 👋 i'm Jovidia
 I'm Fresh graduate in Telkom University majoring Informatics
 
-- 🌼 I'm currently learning about how to analyze and visualize data with python and basic programming  
-- 📊 I'm interested and enthusiast in Data Analyst, Data scientis, Business Intelligence and Artificial Intelligence
+- 🌼 I'm currently learning about machine learning and visualize data with python  
+- 📊 I'm interested and enthusiast in Machine learning and Artificial Intelligence
 - 👾 Feel free to connect with me on linkedin https://www.linkedin.com/in/jovidia-laviosa-372b47201/
 - 🌱 Pronouns: she / her
 
